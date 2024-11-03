@@ -37,3 +37,9 @@ Only use `implementation` if you want to package another Java library *with your
 
 *[1]* *On Linux/Mac it's `./gradlew`, but if you're using Linux I assume you know how to run executables properly anyway.*  
 *[2]: Yes, I know this is stupid. It's a Github UI limitation - while the jar itself is uploaded unzipped, there is currently no way to download it as a single file.*
+
+#translation.
+
+portugues.
+it is incomplete half of the mod is translated , the package does not need the original he already has the files.
+by : Gabriel (gaga657) 🇧🇷
